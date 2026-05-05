@@ -66,7 +66,7 @@ In this project, we **re-architect the deployment using AWS PaaS**, dramatically
 
 ## 🔵 ElastiCache
 
-![Cache](screenshots/cacse.png)
+![Cache](screenshots/cashe.png)
 
 ---
 
