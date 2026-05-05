@@ -58,13 +58,15 @@ In this project, we **re-architect the deployment using AWS PaaS**, dramatically
 
 ## 🟢 RDS
 
-![RDS](screenshots/rds.png)
+![RDS](screenshots/rds1.png)
+![RDS](screenshots/rds2.png)
+
 
 ---
 
 ## 🔵 ElastiCache
 
-![Cache](screenshots/cache.png)
+![Cache](screenshots/cacse.png)
 
 ---
 
