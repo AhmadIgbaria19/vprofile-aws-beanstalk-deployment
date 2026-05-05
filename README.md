@@ -36,7 +36,7 @@ In this project, we **re-architect the deployment using AWS PaaS**, dramatically
 
 ## 🏗️ Architecture
 
-[[Architecture](screenshots/architecture.png)
+[Architecture](screenshots/architecture.jpeg)
 
 ---
 
