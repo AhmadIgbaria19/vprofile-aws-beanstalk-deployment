@@ -36,7 +36,7 @@ In this project, we **re-architect the deployment using AWS PaaS**, dramatically
 
 ## 🏗️ Architecture
 
-[Architecture](screenshots/architecture.jpeg)
+![Architecture](screenshots/architecture.jpeg)
 
 ---
 
@@ -58,19 +58,19 @@ In this project, we **re-architect the deployment using AWS PaaS**, dramatically
 
 ## 🟢 RDS
 
-[[RDS](screenshots/rds.png)
+![RDS](screenshots/rds.png)
 
 ---
 
 ## 🔵 ElastiCache
 
-[[Cache](screenshots/cache.png)
+![Cache](screenshots/cache.png)
 
 ---
 
 ## 🟣 Amazon MQ
 
-[[RabbitMQ](screenshots/rabbit.png)
+![RabbitMQ](screenshots/rabbit.png)
 
 ---
 
@@ -88,10 +88,10 @@ This is the core step where AWS automatically provisions:
 
 ## 🔧 Create Application & Environment
 
-[[Beanstalk Create Step 1](screenshots/step1.png)
-[[Beanstalk Create Step 2-3](screenshots/step23.png)
-[[Beanstalk Create Step 4](screenshots/step4.png)
-[[Beanstalk Create Step 5](screenshots/step5.png)
+![Beanstalk Create Step 1](screenshots/step1.png)
+![Beanstalk Create Step 2-3](screenshots/step23.png)
+![Beanstalk Create Step 4](screenshots/step4.png)
+![Beanstalk Create Step 5](screenshots/step5.png)
 
 ---
 
@@ -110,7 +110,7 @@ After creation:
 
 Updated backend connections:
 
-[[Backend Config](screenshots/backend-config.png)
+![Backend Config](screenshots/backend-config.png)
 
 ---
 
@@ -132,19 +132,19 @@ target/vprofile-v2.war
 
 ## 📤 Upload WAR
 
-[[Upload](screenshots/uploaddeploy.png)
+![Upload](screenshots/uploaddeploy.png)
 
 ---
 
 ## 🔄 Deployment Progress
 
-[[Deploy Events](screenshots/deploy-events.png)
+![Deploy Events](screenshots/deploy-events.png)
 
 ---
 
 ## ✅ Deployment Completed
 
-[[Deploy Success](screenshots/deploy-success.png)
+![Deploy Success](screenshots/deploy-success.png)
 
 ---
 
@@ -160,13 +160,13 @@ target/vprofile-v2.war
 
 ## 🔐 Login Page
 
-[[Login](screenshots/login.png)
+![Login](screenshots/login.png)
 
 ---
 
 ## 🎉 Dashboard
 
-[[Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
